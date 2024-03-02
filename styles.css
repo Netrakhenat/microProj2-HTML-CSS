@@ -2,8 +2,6 @@ body{
     width: 1728px;
     height: 2072px;
     margin:0px;
-    /* top: -103px;
-    left: -710px; */
 }
 .navbar{
     background: #6F6AF7;
@@ -18,7 +16,7 @@ body{
 #pageContent{
     height:1695px;
     width:1542px;
-    margin:/*162px*/ 289px 93px 0px 93px;  
+    margin:289px 93px 0px 93px;  
 } 
 
 .navbar p{
@@ -26,7 +24,6 @@ body{
     font:"Delius Unicase";
     font-size: 61.43px;
     width: 215px;
-    /* text-align:center; */
     margin:0px;
     padding-top:31px;
 }
@@ -75,14 +72,6 @@ ul{
     width:26px;
     margin-right:30px;
 }
- /* .navbar input{
-    width:314px;
-    height:57px;
-    font: "DM Sans";
-    background-color:white;
-    font-size:24.43px;
-    border-radius:63px;
-} */
 .navbar > img{ 
     width:67px;
     height:46.61px;
@@ -94,19 +83,15 @@ ul{
     display:flex;
     justify-content:space-evenly;
     margin-bottom:140px;
-    /* margin:162px 150px 0px 150px; */
 }
 #block1 img{
     width:456px;
     height:518px;
     border-radius: 20px;
-    /* margin-left:28px; */
-    /* box-shadow: 4px 7px 32px 0px #00000070; */
 }
 .purpleBox{
     width:972px;
     height:507px;
-    /* margin:0px; */
     background-color:#E5D8FF;
     border:solid white 6px;
     border-radius:20px;
@@ -121,8 +106,6 @@ ul{
 }
 
  #frameDiv{
-    /* display:inline;
-    position:fixed; */
     position:sticky;
     top:173px;
     margin-top:-550px;
@@ -133,15 +116,6 @@ ul{
 #frameDiv img{
     width:88px;
     height:261px;
-    /* position:sticky;
-    top:173px;
-    margin-left:1542px;
-    margin-top:-250px; */
-    /* top:173px;
-    left:8px; 
-    position:sticky;
-    top:197px; */
-
 }
 
 .img2{
@@ -151,8 +125,6 @@ ul{
     
     top:786px;   /*to use top and left ,position should be other than static*/
      left:1488px;
-    /* padding:0px 30px 30px 0px; 
-    float:right; */
 }
 
 #block2{
@@ -175,11 +147,6 @@ ul{
     font: "DM Sans";
     margin-left:27px;
 }
- /* .upper-para{
-    font-size:29px;
-    color:white;
-    margin-left:27px;
-} */
 
 #block3{
     background-color:#483EFF;
@@ -188,10 +155,6 @@ ul{
     display:flex;
     border-radius:21px;
 }
-/* #border3_1{
-    display:flex;
-    /* flex-direction:column; 
-} */
 #block3_1 div{
     color:white;
     height:133px;
@@ -252,12 +215,8 @@ ul{
     top:20px; 
     padding-left:65px;
     text-decoration: none;
-    /* margin:0px;
-    margin-top:20px;  */
 }
 #block3_2 .nextButton img{
     width:38px;
-    /* position:absolute;
-    top:30px; */
      padding-top:15px; 
 }
